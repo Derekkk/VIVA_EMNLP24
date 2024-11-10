@@ -1,4 +1,10 @@
-# VIVA_EMNLP24
-Data and Code for [EMNLP24] VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values
+# VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values  [EMNLP'24]
 
-(We are organizing the data and code, which will be released very soon.)
+This repository provides the *data and code* of our paper:
+
+**VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values**, EMNLP, 2024
+Zhe Hu, Yixiao Ren, Jing Li, Yu Yin
+
+### [[Paper](https://aclanthology.org/2024.emnlp-main.137.pdf)]
+
+(We are organizing the data, which will be released very soon.)
