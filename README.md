@@ -41,4 +41,4 @@ If you find our work useful, please cite:
 
 ## Contact
 
-Zhe Hu (zhehu.94 at gmail.com)
+Zhe Hu (zhehu.derek at gmail.com)
