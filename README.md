@@ -9,7 +9,7 @@ Zhe Hu, Yixiao Ren, Jing Li, Yu Yin
 ### [[Paper](https://aclanthology.org/2024.emnlp-main.137.pdf)] [[Website](https://derekhu.com/project_page/viva_website_emnlp24/)] [[Dataset](https://huggingface.co/datasets/zhehuderek/VIVA_Benchmark_EMNLP24)]
 
 <div align='center'>
-<img src="./figures/task_example.jpg"  alt="NAME" align=center style="width: 750px;"/>
+<img src="./figures/task_example.jpg"  alt="NAME" align=center style="width: 550px;"/>
 </div>  
 
 ----
