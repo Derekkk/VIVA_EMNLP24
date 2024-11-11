@@ -6,8 +6,8 @@ For each model, modify the command:
 #Task claude3 as an example
 #task options: mcq | norm | reason_generation
 
-data="data/data_annotation.json"
-image_folder=""
+data="data/VIVA_annotation.json"
+image_folder="data/VIVA_images/"
 write_path=""
 task=""
 
