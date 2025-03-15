@@ -80,7 +80,7 @@ One example is:
 Please check the scripts and instructions under the folder ```scripts```
 
 #### Evaluation
-- [ ] To do
+Please check the scripts and sample outputs (format) under the folder ```evaluations```
 
 
 ## Citation 
